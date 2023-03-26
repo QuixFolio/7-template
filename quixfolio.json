@@ -2,6 +2,7 @@
     "id":"7-template",
     "name":"7 Template",
     "description":"This is a Windows 7 template",
+    "tags":["retro"],
     "image":"image.png",
     "schema": {
     "cloneName": {
